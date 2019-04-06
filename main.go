@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/rybit/seltzer/cmd"
+	"github.com/keiji-suzuki/seltzer/cmd"
 )
 
 func main() {
